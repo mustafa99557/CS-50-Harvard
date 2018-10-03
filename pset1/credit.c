@@ -2,7 +2,7 @@
 #include<cs50.h>
 /* This programme is designed to check the validity of the
    card whether it is master card or credit card or vissa card by using Luhn's algoritham */
-
+// is this for cs -50
 int count;
 
 long long reverseNumber (long long credit)
